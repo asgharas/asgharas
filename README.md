@@ -23,14 +23,14 @@ Here are some ideas to get you started:
  
 # ⌛️ Wakatime Stats
 <p align="center"><a href="https://wakatime.com/@asgharas">
-  <img align="center" width="500" height="350" src="https://wakatime.com/share/@asgharas/f7db793b-df7c-4e77-9fda-33567fff8c75.svg" />
+  <img align="center" width="400" height="300" src="https://wakatime.com/share/@asgharas/f7db793b-df7c-4e77-9fda-33567fff8c75.svg" />
 </a>
 <a href="https://wakatime.com/@asgharas">
-  <img align="center" width="500" height="350" src="https://wakatime.com/share/@asgharas/594119f2-0935-4769-868f-8a8af178a5d7.svg" />
+  <img align="center" width="400" height="300" src="https://wakatime.com/share/@asgharas/594119f2-0935-4769-868f-8a8af178a5d7.svg" />
 </a></p>
 
 <p align="center"><a href="https://wakatime.com/@asgharas">
-  <img align="center" width="500" height="350" src="https://wakatime.com/share/@asgharas/365548c3-4e52-46b4-b997-7ff5a4067e4f.svg" />
+  <img align="center" width="400" height="300" src="https://wakatime.com/share/@asgharas/365548c3-4e52-46b4-b997-7ff5a4067e4f.svg" />
 </a>
 </a></p>
 
