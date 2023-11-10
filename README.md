@@ -29,11 +29,6 @@ Here are some ideas to get you started:
   <img align="center" width="400" height="300" src="https://wakatime.com/share/@asgharas/fa7c3ae9-f9bb-41a1-94f7-5bc67dc40b4d.svg" />
 </a></p>
 
-<p align="center"><a href="https://wakatime.com/@asgharas">
-  <img align="center" width="400" height="300" src="https://wakatime.com/share/@asgharas/365548c3-4e52-46b4-b997-7ff5a4067e4f.svg" />
-</a>
-</a></p>
-
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=asgharas&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=asgharas&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
