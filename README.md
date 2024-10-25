@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 
 # ⌛️ Wakatime Stats
 <p align="center"><a href="https://wakatime.com/@asgharas">
-  <img align="center" width="450" height="350" src="https://wakatime.com/share/@asgharas/b2223d50-6cfe-4bea-9768-f7ce1f35772f.svg" />
+  <img align="center" width="400" height="300" src="https://wakatime.com/share/@asgharas/b2223d50-6cfe-4bea-9768-f7ce1f35772f.svg" />
 </a>
 <a href="https://wakatime.com/@asgharas">
-  <img align="center" width="450" height="350" src="https://wakatime.com/share/@asgharas/63ffbc0e-e5b1-47fb-8a74-28fb40ee19a9.svg" />
+  <img align="center" width="400" height="300" src="https://wakatime.com/share/@asgharas/63ffbc0e-e5b1-47fb-8a74-28fb40ee19a9.svg" />
 </a></p>
 
 # 📊 GitHub Stats:
