@@ -6,6 +6,13 @@ I build production AI automation: n8n and Make workflows, voice AI agents, and s
 
 ---
 
+### Research Interests
+- Reliability of LLM agents: tool calling and evaluation
+- Spoken dialogue systems and real-time voice agents
+- Efficient and on-device language models
+
+---
+
 ### What I Do
 
 🤖 **AI Automation** — n8n & Make workflows, LLM-based systems, AI chatbots, prompt engineering, GoHighLevel automations
